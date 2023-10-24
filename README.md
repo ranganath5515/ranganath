@@ -1,2 +1,0 @@
-# ranganath
-AWS DevOps
